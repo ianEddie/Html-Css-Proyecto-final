@@ -382,7 +382,7 @@
 /** MAIN **/
 
 .section-banda {
-  background-image: url("../images/banda/bg2.jpg");
+  background-image: url("../images/banda/bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -401,7 +401,7 @@
 
 .main-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/images/banda/bg.jpg);
+    url("../images/banda/bg2.jpg");
   border: white solid 0.2em;
   border-radius: 15em;
   background-position: center center;
