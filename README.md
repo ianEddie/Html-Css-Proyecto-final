@@ -24,11 +24,9 @@ Para utilizar la aplicación se deben ejecutar los siguientes comandos en consol
 
 ## ⚙️​ Construido con 
 ### Html
-![logo](https://i.postimg.cc/76G1fyGh/html.png) 
+![logo](https://i.postimg.cc/zGJpjBPR/icons8-html-5-100.png) 
 ### Css
-![logo](https://i.postimg.cc/3JxKQrPg/css.png)
-### Javascript
-![logo](https://i.postimg.cc/hvV91b0q/js.png)
+![logo](https://i.postimg.cc/Hs0BX53g/icons8-css3-100.png)
 
 
 ## ​💌​ Expresion de Gratitud
